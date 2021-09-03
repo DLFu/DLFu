@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DLFu
 - 👀 I’m interested in deep learning and medical image analysis
 - 🌱 I’m currently learning medical image processing
-- 💞️ I’m looking to collaborate on multi-GPU acceleration
+- 💞️ I’m looking to collaborate on deep learning and multi-GPU acceleration
 - 📫 Please contact me via the following email: yufu_2020@yeah.net
 
 <!---
