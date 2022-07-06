@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DLFu
+- 👋 Hi, I’m @YuFu
 - 👀 I’m interested in deep learning and medical image analysis
 - 🌱 I’m currently learning medical image processing
 - 💞️ I’m looking to collaborate on deep learning and multi-GPU acceleration
